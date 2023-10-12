@@ -1,0 +1,15 @@
+{
+  "name": "node-env-aws-secret-manager",
+  "version": "1.0.0",
+  "description": "A simple example project for using AWS Secret Manager for your environment variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Niklas Braun <info@niklas-braun.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
