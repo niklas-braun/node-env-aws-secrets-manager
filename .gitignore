@@ -128,4 +128,5 @@ dist
 
 # Env
 .env.development
+*.development
 .env.development
