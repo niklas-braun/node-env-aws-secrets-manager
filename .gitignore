@@ -128,3 +128,4 @@ dist
 
 # Env
 .env.development
+.env.development
